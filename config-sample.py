@@ -11,7 +11,7 @@ GITHUB_PWD = 'p@ssw0rld'
 
 # Search ketwords
 KEYWORD = [
-    'aws',
+    'api_key',
     'key'
 ]
 
